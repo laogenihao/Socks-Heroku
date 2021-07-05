@@ -1,0 +1,9 @@
+{
+    "name": "Socks",
+    "description": "Deploy Socks to Heroku.",
+    "keywords": ["Socks"],
+    "env": {},
+    "website": "https://github.com/laogenihao/Socks-Heroku",
+    "repository": "https://github.com/laogenihao/Socks-Heroku",
+    "stack": "container"
+}
